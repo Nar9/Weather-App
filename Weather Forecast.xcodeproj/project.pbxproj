@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					460618721DA99BEA007C6A7F = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = D63DEC5CAG;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = D63DEC5CAG;
 				INFOPLIST_FILE = "Weather Forecast/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Naini.Weather-Forecast";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = D63DEC5CAG;
 				INFOPLIST_FILE = "Weather Forecast/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Naini.Weather-Forecast";
